@@ -1,4 +1,4 @@
-# Your Personal deatels
+# Your Personal details
 ### First name: Adam
 ### Last name: Rajko
 
