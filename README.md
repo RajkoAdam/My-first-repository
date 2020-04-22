@@ -1,6 +1,8 @@
-# My-first-repository
-## What is your nem?
+# Your Personal deatels
+### First name: Adam
+### Last name: Rajko
+
+##Isn't it?
 - Béla
 - Géza
 - **Ádám**
-- Józsi
